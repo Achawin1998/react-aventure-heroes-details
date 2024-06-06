@@ -1,0 +1,138 @@
+[
+    {
+      "hero": "Spider-Man",
+      "name": "Peter Benjamin Parker",
+      "link": "http://marvel.com/characters/54/spider-man",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png",
+      "biography": "Bitten by a radioactive spider, Peter Parker's spider abilities give him incredible powers that he uses to help others, while his personal life continues to offer many obstacles..",
+      "size": 40000
+    },
+    {
+      "hero": "CAPTAIN MARVEL",
+      "name": "Carol Danvers",
+      "link": "http://marvel.com/characters/9/captain_marvel",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_captainmarvel.png",
+      "biography": "Carol Danvers becomes one of the most powerful heroes in the universe when Earth is caught in the middle of a galactic war between two alien races.",
+      "size": 40000
+    },
+    {
+      "hero": "HULK",
+      "name": "Robert Bruce Banner",
+      "link": "http://marvel.com/characters/25/hulk",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_hulk.png",
+      "biography": "Dr. Bruce Banner lives a life caught between the soft-spoken scientist he has always been and the uncontrollable green monster driven by his rage",
+      "size": 40000
+    },
+    {
+      "hero": "Black Widow",
+      "name": "Natalia (Natasha) Alianovna Romanova",
+      "link": "http://marvel.com/characters/6/black_widow",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_blackwidow.png",
+      "biography": "Natasha Romanoff, separated from the now fractured Avengers, confronts the dark path she took to become a spy and assassin, as well as the events that followed.",
+      "size": 40000
+    },
+    {
+      "hero": "Daredevil",
+      "name": "Matthew Michael Murdock",
+      "link": "http://marvel.com/characters/11/daredevil",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_daredevil.png",
+      "biography": "Blinded in a childhood accident, lawyer Matt Murdock protects Hell's Kitchen as the masked vigilante, Daredevil.",
+      "size": 40000
+    },
+    {
+      "hero": "Wolverine",
+      "name": "James Howlett",
+      "link": "http://marvel.com/characters/66/wolverine",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_wolverine.png",
+      "biography": "A mutant with unstoppable healing power, adamantium metal claws, and a no-nonsense attitude makes the man named Logan one of the fiercest heroes in the universe.",
+      "size": 40000
+    },
+    {
+      "hero": "Captain America",
+      "name": "Steven Rogers",
+      "link": "http://marvel.com/characters/8/captain_america",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_captainamerica.png",
+      "biography": "Recipient of the Super Soldier serum, World War II hero Steve Rogers fights for American ideals as one of the world's most powerful heroes and the leader of the Avengers.",
+      "size": 40000
+    },
+    {
+      "hero": "Iron Man",
+      "name": "Anthony Edward 'Tony' Stark",
+      "link": "http://marvel.com/characters/29/iron_man",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_ironman.png",
+      "biography": "Genius. Multimillionaire. Philanthropist. Tony Stark's confidence is matched only by his high-flying abilities as the hero called Iron Man.",
+      "size": 40000
+    },
+    {
+      "hero": "THOR",
+      "name": "Thor Odinson",
+      "link": "http://marvel.com/characters/60/thor",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_thor.png",
+      "biography": "The son of Odin uses his powerful abilities as the God of Thunder to protect his home Asgard and planet Earth alike.",
+      "size": 40000
+    },
+    {
+      "hero": "Mystique",
+      "name": "Unrevealed",
+      "link": "http://marvel.com/characters/1552/mystique",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/mystique.png",
+      "biography": "She apparently learned to use her shapeshifting power at a very young age, as there is no evidence known to the public or the government that Raven Darkholme ever resembled anything more than a normal human being.",
+      "size": 40000
+    },
+    {
+      "hero": "Black Cat",
+      "name": "Felicia Hardy",
+      "link": "http://marvel.com/characters/271/black_cat",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/blackcat.png",
+      "biography": "Black Cat follows in her father's footsteps by learning the tricks of the trade for theft, eventually losing her criminal ways of fighting for the greater good.  ",
+      "size": 40000
+    },
+    {
+      "hero": "Avengers",
+      "name": "Avengers",
+      "link": "http://marvel.com/characters/68/avengers",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/avengers.png",
+      "biography": "Earth's Mightiest Heroes stand as the planet's first line of defense against the universe's most powerful threats.",
+      "size": 40000
+    },
+    {
+      "hero": "Guardians of the Galaxy",
+      "name": "Guardians of the Galaxy",
+      "link": "http://marvel.com/characters/70/guardians_of_the_galaxy",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/gofgalaxy.png",
+      "biography": "Think of them as good guys... with an unconventional approach to the superhero business.",
+      "size": 40000
+    },
+    {
+      "hero": "Defenders",
+      "name": "Defenders",
+      "link": "http://marvel.com/characters/534/defenders",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/defenders.png",
+      "biography": "Although it has evolved in membership over the years, The Defenders always pursue the same goal: protect the innocent from any threat.",
+      "size": 40000
+    },
+    {
+      "hero": "X-Men",
+      "name": "X-Men",
+      "link": "http://marvel.com/characters/71/x-men",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/xmen.png",
+      "biography": "Charles Xavier's team of merry mutants are charged with the mission of protecting a world that hates and fears them for their unusual appearances and abilities.",
+      "size": 40000
+    },
+    {
+      "hero": "Fantastic Four",
+      "name": "Fantastic Four",
+      "link": "http://marvel.com/characters/69/fantastic_four",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/fantasticfour.png",
+      "biography": "Mister Fantastic, Invisible Woman, Human Torch, and the Thing use their scientific backgrounds to band together and defend the world against dangerous threats.",
+      "size": 40000
+    },
+    {
+      "hero": "Inhumans",
+      "name": "Inhumans",
+      "link": "http://marvel.com/characters/1040/inhumans",
+      "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/inhumans.png",
+      "biography": "Created as an experiment by the alien Kree race, the Inhumans are a strain of humanity with extraordinary abilities.",
+      "size": 40000
+    }
+  ] 
