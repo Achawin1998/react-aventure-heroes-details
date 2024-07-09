@@ -1,46 +1,22 @@
-# Getting Started with Create React App
+<span style="font-size: 32px;">Aventur-heroes-details</span>
+<hr />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🍒สำหรับโปรเจคนี้เป็นการฝึกการใช้ React และ TypeSript ร่วมกันโดยการทำ git clone จากทาง [Github](https://github.com/ohmiler/react-ts-marvel-heroes)🍒
 
-## Available Scripts
+🍒Project-Aventure-heroes-details เป็นแอปพลิเคชันตัวอย่างที่พัฒนาโดยใช้ React, TypeScript และ Tailwind CSS🍒
 
-In the project directory, you can run:
+🍒react: ไลบรารี JavaScript สำหรับสร้าง UI ที่ตอบสนองและมีประสิทธิภาพ.🍒
 
-### `npm start`
+🍒react-dom: แพคเกจนี้ใช้ในการเชื่อมต่อ React กับ DOM ในเบราว์เซอร์.🍒
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+🍒typescript: ภาษาการเขียนโปรแกรมที่เป็นการต่อยอดจาก JavaScript เพิ่มประเภทข้อมูลเพื่อการพัฒนาที่มั่นคงและมีประสิทธิภาพ.🍒
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+🍒tailwindcss: เฟรมเวิร์ก CSS แบบยูทิลิตี้สำหรับการพัฒนา UI ที่รวดเร็วและยืดหยุ่น.🍒
 
-### `npm test`
+🍒wouter: แพคเกจนี้เป็นเราเตอร์ขนาดเล็กสำหรับ React ที่ใช้งานง่ายและมีขนาดเล็ก. ช่วยให้สามารถจัดการกับการนำทางในแอปพลิเคชัน React ได้อย่างง่ายดาย โดยไม่เพิ่มขนาดของแอปพลิเคชันมากเกินไป.🍒
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🍒[Go to Website](https://react-aventure-heroes-details.vercel.app/)🍒
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
