@@ -1,7 +1,7 @@
 <span style="font-size: 32px;">Aventur-heroes-details</span>
 <hr />
 
-🍒สำหรับโปรเจคนี้เป็นการฝึกการใช้ React และ TypeSript ร่วมกันโดยการทำ git clone จากทาง [Github](https://github.com/ohmiler/react-ts-marvel-heroes)🍒
+🍒สำหรับโปรเจคนี้เป็นการฝึกการใช้ React และ TypeSript ร่วมกันโดยการทำ git clone จากทาง [github.com/ohmiler](https://github.com/ohmiler/react-ts-marvel-heroes)🍒
 
 🍒Project-Aventure-heroes-details เป็นแอปพลิเคชันตัวอย่างที่พัฒนาโดยใช้ React, TypeScript และ Tailwind CSS🍒
 
