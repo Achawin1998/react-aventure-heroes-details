@@ -1,4 +1,4 @@
-<span style="font-size: 32px;">Aventur-heroes-details</span>
+<span style="font-size: 32px;">Marvel-Aventure-heroes-details</span>
 <hr />
 
 🍒สำหรับโปรเจคนี้เป็นการฝึกการใช้ React และ TypeSript ร่วมกันโดยการทำ git clone จากทาง [github.com/ohmiler](https://github.com/ohmiler/react-ts-marvel-heroes)🍒
